@@ -1,0 +1,70 @@
+body {
+  background:#7FFFD4;
+  display:block;
+  margin:0;
+  padding:0;
+}
+
+.header {
+  position:fixed;
+
+  width:100%;
+  height:200px;
+  padding-bottom: 20px;
+  padding-left:60px;
+  padding-right:60px;
+  background:#ffff93;
+  text-align:left; 
+  
+}
+
+.main {
+  padding-top:17%;
+  padding-left:60px;
+  padding-right:60px;
+  padding-bottom:120px;
+  height:100%;
+  text-align:left;
+}
+
+  #bt {
+    background-color:#9743ff;
+    color:#7FFFD4;
+    height:40px; 
+    width:130px;
+  }
+
+
+button + button {
+
+  margin-left: 15%;
+  
+  }
+
+#bt:hover {
+  background-color:#ff19ff;
+  transition: 0.2s;
+}
+
+#f1 {
+  font-family :"Lucida Console", "Courier New", monospace;
+  font-size: 60px;
+  color: #6a00ff;
+}
+
+#f1:hover {
+  color:#ff19ff;
+  transition: 0.2s;
+}
+
+.container {
+  position: relative; /* 이미지 위치를 조정할 때 필요한 컨테이너의 위치를 설정합니다. */
+}
+
+#img {
+  position: absolute; /* 이미지를 절대 위치로 설정합니다. */
+  top: 50px; /* 위에서부터의 거리를 설정합니다. */
+  left: 50px; /* 왼쪽에서부터의 거리를 설정합니다. */
+  width: 200px; /* 이미지의 너비를 조정합니다. */
+  height: auto; /* 이미지의 높이를 자동으로 조정합니다. */
+}
