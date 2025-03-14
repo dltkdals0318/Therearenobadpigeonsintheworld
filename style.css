@@ -11,7 +11,7 @@ body {
   position:fixed;
 
   width:100%;
-  height:240px;
+  height:180px;
   padding-bottom: 20px;
   padding-left:60px;
   padding-right:60px;
@@ -53,8 +53,8 @@ body {
     color:#7FFFD4;
     font-family: 'ChosunGs';
     font-size: 13pt;
-    height:50px; 
-    width:140px;
+    height:30px; 
+    width:90px;
   }
 
 
@@ -71,7 +71,7 @@ button + button {
 
 #f1 {
   font-family :"Lucida Console", "Courier New", monospace;
-  font-size: 80px;
+  font-size: 40px;
   color: #6a00ff;
 }
 
@@ -81,7 +81,7 @@ button + button {
 }
 
 html{
-  cursor: url(cursor.png), default
+  cursor: url(cursor.png) 60 60, default
 }
 
 @font-face {
