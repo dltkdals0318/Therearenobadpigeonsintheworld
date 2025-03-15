@@ -28,7 +28,7 @@ body {
   padding-bottom:120px;
   height:100%;
   font-family: 'ChosunGs';
-  font-size: 20px;
+  font-size: 14px;
     height:40px; 
    text-align:center;
    line-height: 210%;
@@ -42,7 +42,7 @@ body {
   height:100%;
   font-family: 'HakgyoansimBombanghakR';
   color:#ec5200;
-  font-size: 35px;
+  font-size: 25px;
     height:40px;
    text-align:center;
    line-height: 210%;
@@ -52,9 +52,9 @@ body {
     background-color:#9743ff;
     color:#7FFFD4;
     font-family: 'ChosunGs';
-    font-size: 13pt;
-    height:30px; 
-    width:90px;
+    font-size: 12pt;
+    height:35px; 
+    width:95px;
   }
 
 
@@ -71,7 +71,7 @@ button + button {
 
 #f1 {
   font-family :"Lucida Console", "Courier New", monospace;
-  font-size: 40px;
+  font-size: 50px;
   color: #6a00ff;
 }
 
